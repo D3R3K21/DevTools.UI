@@ -1,0 +1,18 @@
+// import { PullRequest } from './PullRequest';
+
+// export const MOCK_PRS = [
+//     new PullRequest({
+//         daysOld: 0,
+//         url: "https://bitbucket.org/stchome/stchealth-frontend/pull-requests/80",
+//         serviceName: "stchealth-frontend",
+//         author: "Craig Wickersham",
+//         reviewers: ""
+//       }),
+//       new PullRequest({
+//         daysOld: 1,
+//         url: "https://bitbucket.org/stchome/stchealth-sdk-typescript/pull-requests/38",
+//         serviceName: "stchealth-sdk-typescript",
+//         author: "Tucker Kidd",
+//         reviewers: ""
+//       }),
+// ];
